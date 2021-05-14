@@ -4,5 +4,6 @@ List of community builder communities
 
 | Community | Size | Membership | Platforms |
 | --- | --- | --- | --- |
+| [Community Builders](https://www.facebook.com/groups/we.are.community.builders/) | 4200+ | free | Facebook Groups |
 | [The Community Club](https://www.community.club/) | 2000+ | free | ? |
 | [Community Leads Network](https://communityleads.net/) | 100+ | free | Slack |
