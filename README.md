@@ -10,4 +10,4 @@ List of community builder communities
 | [FeverBee](https://www.feverbee.com/register/) | 1500+ | free | ? |
 | [The Communities Show/Punks](http://join.communities.show/) | 400+ | free | Discord |
 | [Community Leads Network](https://communityleads.net/) | 100+ | free | [Slack](https://communityleads.net/slack) (100+), [Facebook group](https://www.facebook.com/groups/300883904855210) |
-| [CMX](https://cmxslack.github.io/) | ? | free | Slack, [Facebook group](https://www.facebook.com/groups/cmxhub) (11.4K+) |
+| [CMX](https://cmxhub.com/) | ? | free | [Slack](https://cmxslack.github.io/), [Facebook group](https://www.facebook.com/groups/cmxhub) (11.4K+) |
