@@ -9,3 +9,4 @@ List of community builder communities
 | [The Community Club](https://www.community.club/) | 2000+ | free | ? |
 | [The Communities Show/Punks](http://join.communities.show/) | 400+ | free | Discord |
 | [Community Leads Network](https://communityleads.net/) | 100+ | free | Slack |
+| [CMX](https://cmxslack.github.io/) | ? | free | Slack |
