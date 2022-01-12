@@ -1,6 +1,6 @@
 # Community Builder Communities
 
-List of community builder communities
+A list of community builder communities.
 
 | Community | Size | Membership | Platforms |
 | --- | --- | --- | --- |
